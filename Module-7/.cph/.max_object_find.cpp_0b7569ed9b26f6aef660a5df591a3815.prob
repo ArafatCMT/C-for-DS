@@ -1,0 +1,1 @@
+{"name":"Local: max_object_find","url":"g:\\C++ for DS\\Module-7\\max_object_find.cpp","tests":[{"id":1700632366294,"input":"5\nArafat 55 92\nTaufiq 20 86\nShawon 21 89\nBayezid 40 93\nNahid 81 85","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\C++ for DS\\Module-7\\max_object_find.cpp","group":"local","local":true}

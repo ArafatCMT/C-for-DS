@@ -1,0 +1,1 @@
+{"name":"Local: third_largest_string","url":"g:\\C++ for DS\\Module-6.5\\third_largest_string.cpp","tests":[{"id":1701124510020,"input":"5\nomar nahid arafat sumaiya prionty","output":"nahid"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\C++ for DS\\Module-6.5\\third_largest_string.cpp","group":"local","local":true}

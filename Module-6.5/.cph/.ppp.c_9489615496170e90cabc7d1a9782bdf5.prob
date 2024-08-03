@@ -1,0 +1,1 @@
+{"name":"Local: ppp","url":"g:\\C++ for DS\\Module-6.5\\ppp.c","tests":[{"id":1701101823701,"input":"listen silent","output":"Anagram"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\C++ for DS\\Module-6.5\\ppp.c","group":"local","local":true}

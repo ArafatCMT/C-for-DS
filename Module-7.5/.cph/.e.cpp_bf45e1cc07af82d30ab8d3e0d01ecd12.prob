@@ -1,0 +1,1 @@
+{"name":"Local: e","url":"g:\\C++ for DS\\Module-7.5\\e.cpp","tests":[{"id":1700756830149,"input":"3\n4\n1 2 3 4\n4\n1 1 1 1\n3\n1 2 3","output":"0\n2\n-1"},{"id":1700762270660,"input":"1\n6\n1 2 2 2 2 2","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\C++ for DS\\Module-7.5\\e.cpp","group":"local","local":true}

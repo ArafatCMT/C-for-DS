@@ -1,0 +1,1 @@
+{"name":"Local: sort_using_selection_sort","url":"g:\\C++ for DS\\Module-7\\sort_using_selection_sort.cpp","tests":[{"id":1700634207273,"input":"5\nAfif 12 90\nAraf 15 90\nBiplob 10 90\nRajib 9 90\nImran 16 90","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\C++ for DS\\Module-7\\sort_using_selection_sort.cpp","group":"local","local":true}
